@@ -1,0 +1,3 @@
+FIXED: If a side tries to move when it's not their turn, the game breaks. I'll have to figure out what's causing that.
+
+Game crashes when you try to close it. No problems with the while loop immediately jump out.
